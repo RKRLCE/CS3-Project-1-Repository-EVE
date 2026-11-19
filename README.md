@@ -9,3 +9,4 @@ cs project
  ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=black)
  ![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)
  ![YouTube Music](https://img.shields.io/badge/YouTube_Music-%23FF0000.svg?style=for-the-badge&logo=youtube-music&logoColor=white)
+ ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
